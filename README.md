@@ -1,2 +1,2 @@
 # clock
-a clock accurate to seconds
+Clock is a clock accurate to seconds
